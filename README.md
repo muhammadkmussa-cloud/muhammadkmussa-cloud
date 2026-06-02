@@ -1,16 +1,80 @@
-## Hi there 👋
+# Hi there, I'm Muhammad Mussa 👋
 
-<!--
-**muhammadkmussa-cloud/muhammadkmussa-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+I'm a Computer Science student passionate about technology, software development, networking, and solving real-world problems through computing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy learning about:
+
+* 💻 Software Development
+* 🌐 Computer Networks & Data Communications
+* 🐧 Linux & Open Source Technologies
+* 🔄 Software Reengineering
+* 🤖 Theory of Automata
+* 🔒 Cybersecurity Fundamentals
+* ☁️ Cloud Technologies
+* 📚 Continuous Learning
+
+---
+
+## 🛠️ Technologies & Tools
+
+### Languages
+
+* VB.NET
+* Python
+* Java
+* C++
+* SQL
+
+### Development Tools
+
+* Git
+* GitHub
+* Visual Studio
+* VS Code
+* Packet Tracer
+
+### Operating Systems
+
+* Linux (Ubuntu)
+* Windows
+
+---
+
+## 📖 Current Focus
+
+* Advanced Networking Concepts
+* Software Engineering & Reengineering
+* Automata Theory
+* Linux System Administration
+* Git & GitHub Workflows
+* Building Innovative IT Solutions
+
+---
+
+## 🎯 Goals
+
+* Contribute to open-source projects
+* Build impactful software solutions
+* Expand cloud computing skills
+* Strengthen cybersecurity knowledge
+* Grow as a software engineer and IT professional
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadkmussa\&show_icons=true\&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadkmussa\&layout=compact\&theme=github_dark)
+
+---
+
+## 📫 Connect With Me
+
+* GitHub: https://github.com/muhammadkmussa
+
+---
+
+> "Technology is best when it brings people together and solves meaningful problems."
